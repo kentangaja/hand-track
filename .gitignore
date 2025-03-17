@@ -1,0 +1,13 @@
+# Abaikan virtual environment
+venv/
+myvenv/
+
+# Abaikan file yang di-generate
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan file besar yang tidak perlu
+*.log
+*.sqlite3
